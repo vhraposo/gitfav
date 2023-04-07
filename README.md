@@ -10,7 +10,8 @@
 - ES6 Modules
 - Refatoração
 - Funções assincronas 
- - Async, await
+ * Promisses
+ * Async, await
 - Consumo da api do github  
 
 
