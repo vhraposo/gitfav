@@ -5,6 +5,7 @@
 
 
 - Estrutura de dados HTML
+- Table (th,tr,td)
 - Funções no Javascript
 - Manipulação da DOM
 - ES6 Modules
