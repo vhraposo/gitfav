@@ -19,6 +19,9 @@ Deploy: https://vhraposo.github.io/gitfav/
 
 Preview: 
 <h2>Sem nenhum favorito</h2>
+
 ![preview](./preview.png)
+
 <h2>Após adicionar os favoritos</h2>
+
 ![preview](./preview2.png)
